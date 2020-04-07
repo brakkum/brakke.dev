@@ -55,20 +55,20 @@
                 <div class="column">
                     <ul>
                         <li>
-                            <a href="https://tracker.brakke.dev/">Ocarina of Time Entrance Tracker</a>
+                            <a href="https://github.com/brakkum/ZOoTR-Entrance-Tracker">Ocarina of Time Entrance Tracker</a>
                         </li>
                         <ul>
                             <li>JavaScript - React</li>
                         </ul>
                         <li>
-                            <a href="https://mygig.online/">MyGig</a>
+                            <a href="https://github.com/brakkum/MyGig">MyGig</a>
                         </li>
                         <ul>
                             <li>C# - .NET Core, Entity Framework</li>
                             <li>JavaScript - React</li>
                         </ul>
                         <li>
-                            <a href="https://linkst.rip/">linkst.rip</a>
+                            <a href="https://github.com/brakkum/linkst.rip">linkst.rip</a>
                             <ul>
                                 <li>PHP - Symfony</li>
                                 <li>JavaScript - React</li>
@@ -79,7 +79,7 @@
                 <div class="column">
                     <ul>
                         <li>
-                            <a href="https://photos.brakke.dev/">photos.brakke.dev</a>
+                            <a href="https://github.com/brakkum/photos.brakke.dev">photos.brakke.dev</a>
                             <ul>
                                 <li>Javascript - React, Node</li>
                             </ul>
@@ -88,6 +88,12 @@
                             <a href="https://github.com/brakkum/timelapse_eq">Timelapse_EQ</a>
                             <ul>
                                 <li>Python</li>
+                            </ul>
+                        </li>
+                        <li class="project-list-item">
+                            <a href="https://github.com/brakkum/gigs.brakke.dev">gigs.brakke.dev</a>
+                            <ul>
+                                <li>PHP</li>
                             </ul>
                         </li>
                     </ul>
