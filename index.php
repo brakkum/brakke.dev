@@ -42,7 +42,7 @@
                 }
                 ?>
             </h1>
-            <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" rel="noopener,noreferrer" style="color: rgb(254,118,52);">fjorge</a></h2>
+            <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" style="color: rgb(254,118,52);">fjorge</a></h2>
             <p>
                 I am a developer that hails from the Twin Cities.
                 I spent much of my adult life as a musician and photographer, only to find my true calling as a developer while attending Dunwoody College of Technology.
@@ -55,20 +55,20 @@
                 <div class="column">
                     <ul>
                         <li>
-                            <a href="https://github.com/brakkum/ZOoTR-Entrance-Tracker">Ocarina of Time Entrance Tracker</a>
+                            <a href="https://github.com/brakkum/ZOoTR-Entrance-Tracker" target="_blank">Ocarina of Time Entrance Tracker</a>
                         </li>
                         <ul>
                             <li>JavaScript - React</li>
                         </ul>
                         <li>
-                            <a href="https://github.com/brakkum/MyGig">MyGig</a>
+                            <a href="https://github.com/brakkum/MyGig" target="_blank">MyGig</a>
                         </li>
                         <ul>
                             <li>C# - .NET Core, Entity Framework</li>
                             <li>JavaScript - React</li>
                         </ul>
                         <li>
-                            <a href="https://github.com/brakkum/linkst.rip">linkst.rip</a>
+                            <a href="https://github.com/brakkum/linkst.rip" target="_blank">linkst.rip</a>
                             <ul>
                                 <li>PHP - Symfony</li>
                                 <li>JavaScript - React</li>
@@ -79,19 +79,19 @@
                 <div class="column">
                     <ul>
                         <li>
-                            <a href="https://github.com/brakkum/photos.brakke.dev">photos.brakke.dev</a>
+                            <a href="https://github.com/brakkum/photos.brakke.dev" target="_blank">photos.brakke.dev</a>
                             <ul>
                                 <li>Javascript - React, Node</li>
                             </ul>
                         </li>
                         <li>
-                            <a href="https://github.com/brakkum/timelapse_eq">Timelapse_EQ</a>
+                            <a href="https://github.com/brakkum/timelapse_eq" target="_blank">Timelapse_EQ</a>
                             <ul>
                                 <li>Python</li>
                             </ul>
                         </li>
                         <li class="project-list-item">
-                            <a href="https://github.com/brakkum/gigs.brakke.dev">gigs.brakke.dev</a>
+                            <a href="https://github.com/brakkum/gigs.brakke.dev" target="_blank">gigs.brakke.dev</a>
                             <ul>
                                 <li>PHP</li>
                             </ul>
