@@ -66,17 +66,17 @@
                     <ul>
                         <li>
                             <a href="https://github.com/brakkum/ZOoTR-Entrance-Tracker" target="_blank">Ocarina of Time Entrance Tracker</a>
+                            <ul>
+                                <li>JavaScript - React</li>
+                            </ul>
                         </li>
-                        <ul>
-                            <li>JavaScript - React</li>
-                        </ul>
                         <li>
                             <a href="https://github.com/brakkum/MyGig" target="_blank">MyGig</a>
+                            <ul>
+                                <li>C# - .NET Core, Entity Framework</li>
+                                <li>JavaScript - React</li>
+                            </ul>
                         </li>
-                        <ul>
-                            <li>C# - .NET Core, Entity Framework</li>
-                            <li>JavaScript - React</li>
-                        </ul>
                         <li>
                             <a href="https://github.com/brakkum/linkst.rip" target="_blank">linkst.rip</a>
                             <ul>
