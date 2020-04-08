@@ -35,9 +35,9 @@
             <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
                 Dan Brakke
                 <?php
-                if (isset($_GET["eeyore"])) {
+                if (isset($eeyore) && $eeyore) {
                     ?>
-                    <img style="width: 40px;" src="/eeyore.png" alt="Eeyore Emoji" />
+                    <img style="width: 40px;" src="https://brakke.dev/eeyore.png" alt="Eeyore Emoji" />
                     <?php
                 }
                 ?>
