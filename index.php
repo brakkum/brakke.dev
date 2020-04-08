@@ -30,12 +30,15 @@
             }
         </style>
     </head>
+    <?php
+        $eeyore = isset($eeyore) && $eeyore;
+    ?>
     <body class="has-text-grey-lighter" style="max-width: 800px; margin: 40px auto;">
         <section class="content" style="margin: 20px;">
             <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
                 Dan Brakke
                 <?php
-                if (isset($eeyore) && $eeyore) {
+                if ($eeyore) {
                     ?>
                     <img style="width: 40px;" src="https://brakke.dev/eeyore.png" alt="Eeyore Emoji" />
                     <?php
