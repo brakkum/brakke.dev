@@ -32,12 +32,6 @@
     </head>
     <?php
         $eeyore = isset($eeyore) && $eeyore;
-        if (isset($_GET["set_eeyore"])) {
-            $eeyore_score = $_GET["set_eeyore"];
-            file_put_contents("eeyore_score", $eeyore_score);
-        } else {
-            $eeyore_score = file_get_contents("eeyore_score");
-        }
     ?>
     <body class="has-text-grey-lighter" style="max-width: 800px; margin: 40px auto;">
         <section class="content" style="margin: 20px;">
@@ -45,6 +39,12 @@
                 Dan Brakke
                 <?php
                 if ($eeyore) {
+                    if (isset($_GET["set_eeyore"])) {
+                        $eeyore_score = $_GET["set_eeyore"];
+                        file_put_contents("eeyore_score", $eeyore_score);
+                    } else {
+                        $eeyore_score = file_get_contents("eeyore_score");
+                    }
                     ?>
                     <img style="width: 40px;" src="https://brakke.dev/eeyore.png" alt="Eeyore Emoji" />
                     <?php
