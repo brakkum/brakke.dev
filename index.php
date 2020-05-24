@@ -30,27 +30,10 @@
             }
         </style>
     </head>
-    <?php
-        $eeyore = isset($eeyore) && $eeyore;
-    ?>
     <body class="has-text-grey-lighter" style="max-width: 800px; margin: 40px auto;">
         <section class="content" style="margin: 20px;">
             <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
                 Dan Brakke
-                <?php
-                if ($eeyore) {
-                    if (isset($_GET["set_eeyore"])) {
-                        $eeyore_score = $_GET["set_eeyore"];
-                        file_put_contents("eeyore_score", $eeyore_score);
-                    } else {
-                        $eeyore_score = file_get_contents("eeyore_score");
-                    }
-                    ?>
-                    <img style="width: 40px;" src="https://brakke.dev/eeyore.png" alt="Eeyore Emoji" />
-                    <?php
-                    echo $eeyore_score;
-                }
-                ?>
             </h1>
             <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" style="color: rgb(254,118,52);">fjorge</a></h2>
             <p>
