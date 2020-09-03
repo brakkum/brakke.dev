@@ -17,16 +17,14 @@
             .columns .column {
                 padding: 0 .75rem;
             }
-            .columns .column:first-child {
-                padding-top: .75rem;
+            .column ul {
+                margin-top: 0;
             }
-            .columns .column:last-child {
-                padding-bottom: .75rem;
+            h3.projects-title {
+                margin-bottom: 2rem;
             }
-            @media screen and (min-width: 769px) {
-                .columns .column:last-child {
-                    padding-top: .75rem;
-                }
+            .columns.project-columns {
+                margin-top: 0;
             }
         </style>
     </head>
@@ -43,8 +41,8 @@
             <p>
                 I like to spend my free time learning as much about technology as possible, and keeping up to date with the current trends in the industry.
             </p>
-            <h3 class="is-size-3 has-text-grey-lighter">Personal Projects</h3>
-            <div class="columns">
+            <h3 class="is-size-3 has-text-grey-lighter projects-title">Personal Projects</h3>
+            <div class="columns project-columns">
                 <div class="column">
                     <ul>
                         <li>
@@ -60,11 +58,21 @@
                                 <li>JavaScript - React</li>
                             </ul>
                         </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <ul>
                         <li>
                             <a href="https://github.com/brakkum/linkst.rip" target="_blank">linkst.rip</a>
                             <ul>
                                 <li>PHP - Symfony</li>
                                 <li>JavaScript - React</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="https://github.com/brakkum/secure-file-transfer" target="_blank">fileshare.brakke.dev</a>
+                            <ul>
+                                <li>PHP - Symfony</li>
                             </ul>
                         </li>
                     </ul>
