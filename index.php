@@ -8,6 +8,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" />
         <style>
+            body {
+                width: 100vw;
+                height: 100vh;
+            }
             .logo {
                 width: 50px;
                 height: 50px;
