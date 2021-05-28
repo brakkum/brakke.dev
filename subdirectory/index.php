@@ -18,15 +18,15 @@
         }
     </style>
 </head>
-<?php include_once './nav.php'; ?>
 <body class="has-text-grey-lighter" style="max-width: 800px; margin: 40px auto;">
-    <section class="content" style="margin: 20px;">
-        <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
-            Dan Brakke
-        </h1>
-        <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" style="color: rgb(254,118,52);">fjorge</a></h2>
-        <p>I write code.</p>
-        <br/>
-        <a class="logo" href="https://github.com/brakkum"><img class="logo" alt="GitHub Logo" src="/github.png" /></a>
+<?php include_once '../nav.php'; ?>
+<section class="content" style="margin: 20px;">
+    <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
+        Subdir Page
+    </h1>
+    <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" style="color: rgb(254,118,52);">fjorge</a></h2>
+    <p>I write code.</p>
+    <br/>
+    <a class="logo" href="https://github.com/brakkum"><img class="logo" alt="GitHub Logo" src="/github.png" /></a>
 </body>
 </html>
