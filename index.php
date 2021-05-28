@@ -28,5 +28,7 @@
         <p>I write code.</p>
         <br/>
         <a class="logo" href="https://github.com/brakkum"><img class="logo" alt="GitHub Logo" src="/github.png" /></a>
+    </section>
+    <script src='/index.js'></script>
 </body>
 </html>
