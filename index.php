@@ -2,6 +2,7 @@
 <html lang="en" class="has-background-grey-darker">
 <head>
     <meta charset="UTF-8">
+    <meta name="robots" content="noindex,nofollow">
     <meta name="description" content="Test document for brakke.css">
     <meta name="keywords" content="Daniel,Brakke,CSS,SASS">
     <meta name="author" content="Daniel Brakke">
