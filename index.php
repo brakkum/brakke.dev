@@ -23,7 +23,7 @@
             <h1 class="is-size-1 has-text-weight-bold has-text-grey-lighter">
                 Dan Brakke
             </h1>
-            <h2 class="is-size-3 has-text-grey-lighter">Developer - <a href="https://fjorgedigital.com" target="_blank" style="color: rgb(254,118,52);">fjorge</a></h2>
+            <h2 class="is-size-3 has-text-grey-lighter">Lead Software Engineer - <a href="https://mpulsemobile.com" target="_blank" style="color: rgb(254,118,52);">mPulse Mobile</a></h2>
             <p>I write code.</p>
             <br/>
             <a class="logo" href="https://github.com/brakkum"><img class="logo" alt="GitHub Logo" src="github.png" /></a>
